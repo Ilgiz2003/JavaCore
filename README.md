@@ -1,3 +1,0 @@
-"# JavaCore" 
-"# JavaCore" 
-"# JavaCore" 
