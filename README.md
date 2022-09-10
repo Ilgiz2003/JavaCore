@@ -1,6 +1,0 @@
-"# JavaCore" 
-"# JavaCore" 
-"# JavaCore" 
-"# JavaCore" 
-"# JavaCoreHomeWork_2" 
-"# JavaCoreHomeWork_2" 
